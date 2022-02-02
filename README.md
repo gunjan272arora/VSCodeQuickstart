@@ -1,6 +1,6 @@
-# Salesforce DX Project: Account Controlle
+# Salesforce DX Project: Account Controller
 
-##Apex class path: VSCodeQuickstart\force-app\main\default\classes\AccountController.cls
+## Apex class path: VSCodeQuickstart\force-app\main\default\classes\AccountController.cls
 
 In this project, an Apex class is created in VS Code IDE and deployed into the Salesforce org.
 Purpose of this class is to display list of all Active Accounts present in the current org.
