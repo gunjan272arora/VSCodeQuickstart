@@ -1,18 +1,9 @@
-# Salesforce DX Project: Next Steps
+# Salesforce DX Project: Account Controller
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+In this project, an Apex class is created in VS Code IDE and deployed into the Salesforce org.
+Purpose of this class is to display list of all Active Accounts present in the current org.
 
-## How Do You Plan to Deploy Your Changes?
+Org URL: https://empathetic-moose-qu0ghf-dev-ed.my.salesforce.com/
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
-
-## Configure Your Salesforce DX Project
-
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
-
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+## Output after deploying
+![image](https://user-images.githubusercontent.com/56190910/152077267-d20abfd1-3165-43cd-bd4f-b13d3376d2c8.png)
